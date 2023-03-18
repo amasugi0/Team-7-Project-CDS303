@@ -11,7 +11,7 @@ from sklearn import metrics
 from sklearn.metrics import davies_bouldin_score, silhouette_score
 from sklearn.decomposition import PCA
 from pca import pca
-import seaborn as sn
+
 
 
 #PART 1 IMPORTING/CLEANING/TRANSFORMING
